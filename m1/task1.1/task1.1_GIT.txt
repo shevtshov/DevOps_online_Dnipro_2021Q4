@@ -1,0 +1,15 @@
+7099f9b HEAD@{0}: merge develop: Fast-forward
+db6df49 HEAD@{1}: checkout: moving from develop to main
+7099f9b HEAD@{2}: commit (merge): Merged main fixed conflict
+e659d66 HEAD@{3}: merge images: Fast-forward
+6a0366f HEAD@{4}: checkout: moving from styles to develop
+6618ad5 HEAD@{5}: commit: changes index.html
+e09d626 HEAD@{6}: commit: added styles.css
+6a0366f HEAD@{7}: checkout: moving from develop to styles
+6a0366f HEAD@{8}: checkout: moving from images to develop
+e659d66 HEAD@{9}: commit: added images
+6a0366f HEAD@{10}: checkout: moving from develop to images
+6a0366f HEAD@{11}: commit: added index.html
+db6df49 HEAD@{12}: checkout: moving from main to develop
+db6df49 HEAD@{13}: Branch: renamed refs/heads/master to refs/heads/main
+db6df49 HEAD@{15}: commit (initial): first commit
