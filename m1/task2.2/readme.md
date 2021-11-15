@@ -45,3 +45,6 @@
 
 2.15 Website on Amazon S3
 http://devops-dnipro-q4.s3-website.eu-central-1.amazonaws.com/
+
+- screenshot, in case the site is not accessible
+ ![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m1/task2.2/devops_website_screenshot.png)
