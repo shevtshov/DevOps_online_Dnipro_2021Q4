@@ -7,9 +7,9 @@
 - Number of guest operating systems, Reduce disk size, Change the number of resources without Downtime, USB Redirection	  
 
 1.4 Created VM1   
-![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m2/task2.1/1.4_create_VM1.png)
+![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m1/task2.1/1.4_create_VM1.png)
 - ubuntu version:  
-![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m2/task2.1/1.4_create_VM1_ubuntu_version.png)
+![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m1/task2.1/1.4_create_VM1_ubuntu_version.png)
 
 1.7 Groups for VMs   
 
