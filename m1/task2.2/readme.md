@@ -37,7 +37,7 @@
 ![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m1/task2.2/2.2.13_Static_IP_for_site.png)
 
 2.14 Amazon ECS
-- Docker run container
+- Docker run container with "hello-world"
 ![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m1/task2.2/2.2.14_Docker_run.png)
 - Web page with "Hello World!"
 ![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m1/task2.2/2.2.14_Docker_hello_world.png)
