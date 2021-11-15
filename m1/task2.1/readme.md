@@ -16,43 +16,43 @@
 vs@MacBook-Pro ~ % VBoxManage modifyvm "ubuntu_shevtsov" --groups "/Ubuntu"    
 vs@MacBook-Pro ~ % VBoxManage modifyvm "ubuntu_shevtsov_2" --groups "/Ubuntu"   
 
-![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m2/task2.1/1.7_groups_for_VMs.png)
+![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m1/task2.1/1.7_groups_for_VMs.png)
 
 1.8 Snapshots functionality  
-![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m2/task2.1/1.8_snapshots.png)
+![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m1/task2.1/1.8_snapshots.png)
 
 1.9 Export/Import VMs   
 - Exported *.ova file:   
-![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m2/task2.1/1.9_%20export_ova.png)
+![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m1/task2.1/1.9_%20export_ova.png)
 
 - Import from *.ova file:   
-![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m2/task2.1/1.9_import_ova.png)
+![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m1/task2.1/1.9_import_ova.png)
 
  ---
    
 ### PART 2. Configuration of virtual machines
 2.2 USB configuration  
-![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m2/task2.1/2.2_USB_configuration.png)
+![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m1/task2.1/2.2_USB_configuration.png)
 
 2.3 Shared folder  
-![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m2/task2.1/2.3_shared_folder.png)
+![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m1/task2.1/2.3_shared_folder.png)
 
 2.4 Network modes table  
-![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m2/task2.1/2.4_network_modes.png)
+![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m1/task2.1/2.4_network_modes.png)
 
 ---
 
 ### PART 3. WORK WITH VAGRANT
 
 3.4 "vagrant up" logs  
-![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m2/task2.1/3.4_vagrant_up_logs.png)
+![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m1/task2.1/3.4_vagrant_up_logs.png)
 
 3.5 Connect to VM using Termius  
-![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m2/task2.1/3.5_connect_via_termius.png)
+![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m1/task2.1/3.5_connect_via_termius.png)
 
 3.6 "date" inside Vagrant VM   
-![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m2/task2.1/3.6_date_command.png)
+![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m1/task2.1/3.6_date_command.png)
 
 3.8 Own Vagrant box   
-![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m2/task2.1/3.8_vagrant_box.png)
+![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m1/task2.1/3.8_vagrant_box.png)
 
