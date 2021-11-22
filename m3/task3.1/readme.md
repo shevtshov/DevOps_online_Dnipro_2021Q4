@@ -1,6 +1,13 @@
-### 3. Networking
+## 3. Networking
 
 Project attached : schema1.pkt
+
+
+### Network schema:
+![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m3/task3.1/network_3.1.png)
+
+### Ping между машинами в Enterprise:
+![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m3/task3.1/ping_PC1_to_PC2.png)
 
 
 
