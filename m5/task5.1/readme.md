@@ -56,7 +56,7 @@
 - 'grep -r "ss*" /etc'  
 
 
-2.12  vs@vs-VirtualBox:~$ ls /etc/ | less
+2.12  vs@vs-VirtualBox:~$ ls /etc/ | less  
 2.13  ls -l /dev/,   type can be checked by *file* comman
 - c - character
 - b - block
