@@ -64,6 +64,6 @@
 - s - socket
 
 
-2.14  *file* command, e.g:
-![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m5/task5.1/2.14.png)   
-2.15  
+2.14  *file* command, e.g:  
+![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m5/task5.1/2.14.png)    
+2.15  ls -1lt | head -6
