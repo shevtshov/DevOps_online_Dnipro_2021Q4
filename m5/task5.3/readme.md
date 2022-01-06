@@ -64,5 +64,3 @@ virtualbox setting for VM and login attempt via terminal:
 
 3.2.5
 //TODO
-
-![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m5/task5.3/2.png)  
