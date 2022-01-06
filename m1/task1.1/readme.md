@@ -1,20 +1,26 @@
-## task 1.1 result:
-1. Install GIT: 	sudo apt install git, git --version //git version 2.25.1
-2.  add name and email:	 git config --global user.name "Viacheslav Shevtsov", git config --global user.email "MY_NAME@example.com"
-	setup core text editor:	 git config --global core.editor nano
-Output: cat /home/ubuntu/.gitconfig
+## task 1.1 result:  
+1. Install GIT: 	`sudo apt install git`, `git --version` //git version 2.25.1  
+2.  add name and email:	 `git config --global user.name "Viacheslav Shevtsov"`, `git config --global user.email "MY_NAME@example.com"`  
+	setup core text editor:	 `git config --global core.editor nano`  
+Output: `cat /home/ubuntu/.gitconfig`
+
+```
 [user]
         name = Viacheslav Shevtsov
         email = shevtsho.v@gmail.com
 [core]
         editor = nano
+```
 
-3. Create account on GitHub: https://github.com/shevtshov
-4. Create new private repo on GitHub: https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4
-5-6. git clone git@github.com:shevtshov/DevOps_online_Dnipro_2021Q4.git
+3. Create account on GitHub: https://github.com/shevtshov  
+4. Create new private repo on GitHub: https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4   
+
+
+5-6. 
+ `git clone git@github.com:shevtshov/DevOps_online_Dnipro_2021Q4.git`
 
 ### 7-26. git history in the terminal:
- 1934  mkdir m1  
+``` 1934  mkdir m1  
  1935  mkdir m1/task1.1  
  1936  cd m1/task1.1  
  1937  touch readme.txt  
@@ -66,7 +72,8 @@ Output: cat /home/ubuntu/.gitconfig
  1983  git push origin --all  
  1984  git add readme.md  
  1985  git commit -m "added readme.md"  
- 1986  git push origin --all  
+ 1986  git push origin --all 
+ ```
 
 ## what DevOps is
 Devops is a specialist who interacts between all teams, automates the processes of development, testing, deployment of the product and delivery to the production
