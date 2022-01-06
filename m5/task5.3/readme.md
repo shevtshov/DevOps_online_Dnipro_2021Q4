@@ -22,9 +22,9 @@ top or `ps -F` (-e for printing all processes); the status of process could be o
 3.1.8
 `ps -u username`  
 3.1.9
-htop - with this utility you can see the same information as in ps, you can also filter or kill processes   
+`htop` - with this utility you can see the same information as in ps, you can also filter or kill processes   
 3.1.10
-top - shows dynamic information about the system: list of processes, resources used 
+`top` - shows dynamic information about the system: list of processes, resources used 
 ![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m5/task5.3/10.png)  
 
 3.1.11
