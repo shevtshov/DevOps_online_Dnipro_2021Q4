@@ -2,7 +2,7 @@
 1.1 Vmware vSphere, Hyper-V, Xen, KVM, RHEV
 
 1.2 Types: 	  
-- "bare-metal hypersvisor" deploys on host maschiche, should not have basic operation system	  
+- `bare-metal hypersvisor` deploys on host maschiche, should not have basic operation system	  
 -  Install on existing operation system (e.g Windows, macOS)	  
 - Number of guest operating systems, Reduce disk size, Change the number of resources without Downtime, USB Redirection	  
 
@@ -12,9 +12,10 @@
 ![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m1/task2.1/1.4_create_VM1_ubuntu_version.png)
 
 1.7 Groups for VMs   
-
+```
 vs@MacBook-Pro ~ % VBoxManage modifyvm "ubuntu_shevtsov" --groups "/Ubuntu"    
 vs@MacBook-Pro ~ % VBoxManage modifyvm "ubuntu_shevtsov_2" --groups "/Ubuntu"   
+```
 
 ![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m1/task2.1/1.7_groups_for_VMs.png)
 
