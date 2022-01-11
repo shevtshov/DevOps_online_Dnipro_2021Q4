@@ -55,7 +55,7 @@ Script output:
 ### Part C. 
 
 Script:
-![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m7/task7.1/images/script_backup.png)
+![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m7/task7.1/images/backup_script.png)
 
 Log output file:
 ![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m7/task7.1/images/log_file_output.png)
