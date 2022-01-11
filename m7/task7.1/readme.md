@@ -46,3 +46,5 @@ echo List of search bots:
 cat apache_logs.txt | awk '{print $14}' | sort | uniq -c | sort -nr | awk '/[Bb]ot/{print}'
 
 ```
+
+Script output:
