@@ -46,5 +46,7 @@ echo List of search bots:
 cat apache_logs.txt | awk '{print $14}' | sort | uniq -c | sort -nr | awk '/[Bb]ot/{print}'
 
 ```
+to process another file - use $1 variable instead of apache_logs.txt 
 
 Script output:
+![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m7/task7.1/images/script_output.png)
