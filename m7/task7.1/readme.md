@@ -50,3 +50,12 @@ to process another file - use $1 variable instead of apache_logs.txt
 
 Script output:
 ![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m7/task7.1/images/script_output.png)
+
+
+### Part C. 
+
+Script:
+![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m7/task7.1/images/script_backup.png)
+
+Log output file:
+![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m7/task7.1/images/log_file_output.png)
