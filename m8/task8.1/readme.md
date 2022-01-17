@@ -1,7 +1,7 @@
 ## Module Python Essentials
 
 
-solv_square_equation:
+solv_square_equation.py:
 ```
 import math
 
@@ -61,7 +61,7 @@ if __name__ == '__main__':
     main()
 ```
 
-unit-test:
+unit-test.py:
 ```
 import unittest
 import solv_square_equation
