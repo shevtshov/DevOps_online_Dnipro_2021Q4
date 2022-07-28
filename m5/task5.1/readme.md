@@ -46,7 +46,7 @@
 ![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m5/task5.1/2.6.png)   
 2.7  
 ![alt text](https://github.com/shevtshov/DevOps_online_Dnipro_2021Q4/blob/main/m5/task5.1/2.7.png)   
-2.8  `mount -l`  
+2.8  `mount -l` `lsblk` 
 2.9  
 - `mount -l | wc -l` number of line  
 - `mount -l | wc -m` number of characters   
