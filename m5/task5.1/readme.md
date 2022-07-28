@@ -52,7 +52,7 @@
 - `mount -l | wc -m` number of characters   
 
 
-2.10  `find /etc/ -type f -name "host"`   
+2.10  `find /etc/ -type f -name "*host*"`   
 2.11   
 - `find /etc/ -name "ss*"` 
 - `grep -r "ss*" /etc`  
